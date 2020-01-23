@@ -1,3 +1,3 @@
-# homebrew-pstoeditplot
+# homebrew-pstoedit
 
 DONT EXPECT THIS TO WORK I DON"T KNOW WHAT IM DOING!!
