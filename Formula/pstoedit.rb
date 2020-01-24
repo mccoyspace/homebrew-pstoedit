@@ -2,7 +2,7 @@ class Pstoedit < Formula
   desc "Convert PostScript and PDF files to editable vector graphics"
   homepage "http://www.pstoedit.net/"
   url "https://github.com/mccoyspace/pstoedit/archive/v1.0.3.tar.gz"
-  sha256 ""
+  sha256 "9a0279cc50dbg7311458ff0b8427a34fcb0159d47fcfb9894509476755314ad2"
 
   depends_on "pkg-config" => :build
   depends_on "ghostscript"
